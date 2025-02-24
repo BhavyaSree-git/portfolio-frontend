@@ -3,7 +3,7 @@ Sree's Portfolio
 I'm Sree, a dedicated Python Developer with 14 months of experience in backend development. My expertise lies in building robust APIs, managing databases, and creating secure, scalable, and efficient web applications.
 
 🛠️ Skills
-Languages: Python, Java, HTML, CSS, JavaScript
+Languages: Python, HTML, CSS, JavaScript
 Frameworks: Flask
 Databases: MySQL, PyMySQL
 Tools: Postman, Git
